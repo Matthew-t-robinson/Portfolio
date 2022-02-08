@@ -1,0 +1,58 @@
+﻿  Game.cpp
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(39,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(39,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(91,52): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(92,52): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(163,65): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(168,65): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(172,65): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(177,65): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(214,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(227,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(234,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(239,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(241,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(243,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(244,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(269,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(271,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(272,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(273,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(283,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(286,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(287,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(302,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\RTS\RTSPool\RTSPool\Game.cpp(303,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RTSPool.vcxproj -> D:\UniWork\RTS\RTSPool\Debug\RTSPool.exe
